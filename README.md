@@ -10,3 +10,8 @@ This github repo contains code to reproduce experiments from the paper [Dynamica
 ### Lazy Regime (No single outlier governs dynamics) 
 
 ![Lazy Learning](./complex_eigs_dynamics_real_target_lazy.gif)
+
+### Multi-Timescale Target Function
+
+![Nontrivial Interaction Between Outliers](./complex_eigs_dynamics_real_target_multi_timescale.gif)
+
